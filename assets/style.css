@@ -18,3 +18,7 @@
 .bg-blue {
     background-color: lightblue
 }
+
+.reasons {
+    min-height: 300px;
+}
