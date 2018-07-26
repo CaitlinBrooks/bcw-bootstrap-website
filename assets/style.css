@@ -7,10 +7,14 @@
     position: relative;
 }
 
-.header {
+.hero-text {
     text-align: center;
     position: absolute;
     top: 100%;
     left: 100%;
     color: white;
+}
+
+.bg-blue {
+    background-color: lightblue
 }
