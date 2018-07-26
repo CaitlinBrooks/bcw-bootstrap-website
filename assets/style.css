@@ -22,3 +22,12 @@
 .get-news {
     min-height: 100px;
 }
+
+.map {
+    min-height: 300px;
+    background-image: url("https://source.unsplash.com/random/400x200");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
