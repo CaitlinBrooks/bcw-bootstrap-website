@@ -1,13 +1,17 @@
-/* DEBUGGING RULE ONLY */
-*{
-    outline: 1px solid red;
-}
-
-.w100{
-    width: 100%;
-}
-
-.main-art{
-    background-image: url(http://unsplash.it/400/200);
+.hero-image {
+    background-image: url(https://source.unsplash.com/random/400/200);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
+    position: relative;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
 }
