@@ -31,3 +31,11 @@
     background-size: cover;
     position: relative;
 }
+
+.footer {
+    background-color: rgb(32, 32, 32)
+}
+
+.footer-section {
+    min-height: 100px;
+}
